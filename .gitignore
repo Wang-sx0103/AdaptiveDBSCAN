@@ -1,0 +1,11 @@
+# building
+build/
+
+# configure
+.vscode/
+
+# scripts for data visulization
+scripts/
+
+# data 
+data/
